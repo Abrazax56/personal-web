@@ -1,0 +1,9 @@
+@media (max-width: 550px) {
+  .avatar {
+    width: clamp(150px, 8vw, 400px);
+    height: clamp(150px, 8vw, 400px);
+  }
+  .gambar {
+    width: clamp(150px, 8vw, 400px);
+  }
+}
